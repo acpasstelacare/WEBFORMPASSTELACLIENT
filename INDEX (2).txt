@@ -46,7 +46,7 @@
 
     <script>
         // અહીં તમારી Google Apps Script ની Web App URL મૂકો
-        const scriptURL = 'YOUR_WEB_APP_URL';
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbxTarSeR3qt7-uHqhnesoyPGlvjg2m6urBtORTW8PSkO0S5t95l_bcCZKUynIIz-xV90Q/exec';
         const form = document.forms['dataForm'];
         const statusText = document.getElementById('status');
 
